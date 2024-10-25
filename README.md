@@ -25,6 +25,6 @@ The practice involves using the Metaexploitable2 machine to perform various acti
 ## Team
 
 - **Carmen Abans Maciel:** [GitHub Profile](https://github.com/carmenabans)
-- **Noelia Hernández Rodríguez:** [GitHub Profile](https://github.com/Noeliahr10)
+- **Noelia Hernández Rodríguez:** [GitHub Profile](https://github.com/Noelia-Hernandez-Rodriguez)
 
 Each activity and analysis is complemented by detailed explanations, code snippets, and screenshots to illustrate findings and enhance understanding of web vulnerabilities.
